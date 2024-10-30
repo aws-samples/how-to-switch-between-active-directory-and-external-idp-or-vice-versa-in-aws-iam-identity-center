@@ -2,7 +2,7 @@
 
 This repository contains a python script used to interact with AWS Identity Center. Script goal is to document current principals in the Identity Store, Document existing permission set > AWS Account > principal assignments, and automate issuing assignment requests for permission set to AWS Account + principal.
 
-This script is companion to the upcoming Blog post [How to switch between Active Directory and External IdP (or vice versa) in AWS IAM Identity Center with Automation](https://aws.amazon.com/blogs/migration-and-modernization/how-to-switch-between-active-directory-and-external-idp-or-vice-versa-in-aws-iam-identity-center-with-automation)
+This script is companion to the Blog post [How to switch between Active Directory and External IdP (or vice versa) in AWS IAM Identity Center with Automation](https://aws.amazon.com/blogs/migration-and-modernization/how-to-switch-between-active-directory-and-external-idp-or-vice-versa-in-aws-iam-identity-center-with-automation)
 
 ## Requirements
 
